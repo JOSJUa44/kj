@@ -1,0 +1,30 @@
+<html>
+<head>
+	<title>Imagenes</title>
+</head>
+<body>
+
+<h1><center>Imagenes</center></h1>
+
+<bgsound src="sab.mp3" loop="infinite">
+
+<img src="CR7.jpg">
+
+<img src="CR7.jpg" width="100" height="150"><br>
+
+<center><img src="CR7.jpg" width="100" height="150" border="1"></center>
+
+<img src="CR7.jpg" width="100" height="150" align="bottom">CR7(abajo)<br>
+
+<p align="right">CR7<img src="bb.jpg" width="100" height="150">CR7(abajo)</p><br>
+
+<img src="CR7.jpg" width="100" height="150" align="top">CR7(arriba)<br>
+
+<img src="CR7.jpg" width="100" height="150" align="middle">CR7(en medio)<br>
+
+<center>CR7<img src="CR7.jpg" width="100" height="150" align="middle">CR7(en medio)</center><br>
+
+<img src="bx.gif">
+
+</body>
+</html>
